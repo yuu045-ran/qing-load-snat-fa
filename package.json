@@ -1,0 +1,17 @@
+{
+  "name": "qing-node-snat-fa",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "agentkeepalive": "^4.1.4",
+    "https": "^1.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {}
+}

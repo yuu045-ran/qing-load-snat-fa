@@ -41,4 +41,4 @@ jobs:
         app-name: 'qing-pv2-win-node-fa'
         slot-name: 'production'
         package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6ec29ab26a434dcf9d76fee267cd6ef6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_15d3a28488bb4c42b5e21815ad1e0d08 }}
